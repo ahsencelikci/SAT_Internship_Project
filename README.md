@@ -39,6 +39,20 @@ In neural networks, the classification task involves assigning input data to one
 
 8.  ***Compare segmentation and classification in NN.***
 
+Both tasks involve predicting labels based on input data, classification provides a single label for the entire image, whereas segmentation provides a detailed label for every pixel in the image. This makes segmentation a more complex and resource-intensive task compared to classification.
+
+9. ***What is data and dataset difference?***
+
+_Data_ is individual pieces of information, like numbers, words, or images. It's the raw material.   
+
+_Dataset_ is a collection of related data organized in a specific way. It's like a container for data, often used for analysis or machine learning.
+
+10. ***What is the difference between supervised and unsupervised learning in terms of dataset?***
+
+i. Supervised Learning: Requires a labeled dataset, where each data instance is paired with its corresponding output label.
+
+ii. Unsupervised Learning: Works with an unlabeled dataset, meaning there are no explicit output labels provided for the data instances.
+
 
 
 
