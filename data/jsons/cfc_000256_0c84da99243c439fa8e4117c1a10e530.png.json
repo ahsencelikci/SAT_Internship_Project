@@ -1,0 +1,1234 @@
+{
+    "description": "",
+    "tags": [
+        {
+            "id": 3644530,
+            "tagId": 1932,
+            "name": "Traffic Condition",
+            "value": "Light Traffic",
+            "labelerLogin": "oasilisk",
+            "createdAt": "2020-06-29T14:48:20.169Z",
+            "updatedAt": "2020-06-29T14:48:20.169Z"
+        },
+        {
+            "id": 3644529,
+            "tagId": 1921,
+            "name": "Daytime",
+            "value": "Day",
+            "labelerLogin": "oasilisk",
+            "createdAt": "2020-06-29T14:48:12.539Z",
+            "updatedAt": "2020-06-29T14:48:12.539Z"
+        },
+        {
+            "id": 3644528,
+            "tagId": 1935,
+            "name": "Weather Condition",
+            "value": "Partly Cloudy",
+            "labelerLogin": "oasilisk",
+            "createdAt": "2020-06-29T14:48:23.563Z",
+            "updatedAt": "2020-06-29T14:48:23.563Z"
+        },
+        {
+            "id": 3644531,
+            "tagId": 1930,
+            "name": "Scene Type",
+            "value": "Viaduct",
+            "labelerLogin": "oasilisk",
+            "createdAt": "2020-06-29T14:48:16.263Z",
+            "updatedAt": "2020-06-29T14:48:16.263Z"
+        }
+    ],
+    "size": {
+        "height": 1208,
+        "width": 1920
+    },
+    "objects": [
+        {
+            "id": 9831951,
+            "classId": 4915,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "yholat",
+            "createdAt": "2023-04-11T01:26:31.771Z",
+            "updatedAt": "2023-04-11T01:26:31.771Z",
+            "tags": [
+                {
+                    "id": 284044,
+                    "tagId": 1933,
+                    "name": "Truncation",
+                    "value": "0-25",
+                    "labelerLogin": "yholat",
+                    "createdAt": "2023-04-11T01:26:38.803Z",
+                    "updatedAt": "2023-04-11T01:26:38.803Z"
+                },
+                {
+                    "id": 284042,
+                    "tagId": 1927,
+                    "name": "Occlusion",
+                    "value": "0-25",
+                    "labelerLogin": "yholat",
+                    "createdAt": "2023-04-11T01:26:37.756Z",
+                    "updatedAt": "2023-04-11T01:26:37.756Z"
+                }
+            ],
+            "classTitle": "Car",
+            "points": {
+                "exterior": [
+                    [
+                        1604,
+                        540
+                    ],
+                    [
+                        1614,
+                        550
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 9831948,
+            "classId": 4934,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "yholat",
+            "createdAt": "2023-04-11T01:26:27.358Z",
+            "updatedAt": "2023-04-11T01:26:27.358Z",
+            "tags": [
+                {
+                    "id": 284036,
+                    "tagId": 1926,
+                    "name": "not_in_roi",
+                    "value": null,
+                    "labelerLogin": "yholat",
+                    "createdAt": "2023-04-11T01:26:29.462Z",
+                    "updatedAt": "2023-04-11T01:26:29.462Z"
+                }
+            ],
+            "classTitle": "Vehicle",
+            "points": {
+                "exterior": [
+                    [
+                        1611,
+                        540
+                    ],
+                    [
+                        1625,
+                        553
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 9831946,
+            "classId": 4934,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "yholat",
+            "createdAt": "2023-04-11T01:26:22.333Z",
+            "updatedAt": "2023-04-11T01:26:22.333Z",
+            "tags": [
+                {
+                    "id": 284033,
+                    "tagId": 1926,
+                    "name": "not_in_roi",
+                    "value": null,
+                    "labelerLogin": "yholat",
+                    "createdAt": "2023-04-11T01:26:22.895Z",
+                    "updatedAt": "2023-04-11T01:26:22.895Z"
+                }
+            ],
+            "classTitle": "Vehicle",
+            "points": {
+                "exterior": [
+                    [
+                        1488,
+                        550
+                    ],
+                    [
+                        1507,
+                        563
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 9831943,
+            "classId": 4934,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "yholat",
+            "createdAt": "2023-04-11T01:26:16.531Z",
+            "updatedAt": "2023-04-11T01:26:16.531Z",
+            "tags": [
+                {
+                    "id": 284025,
+                    "tagId": 1926,
+                    "name": "not_in_roi",
+                    "value": null,
+                    "labelerLogin": "yholat",
+                    "createdAt": "2023-04-11T01:26:17.862Z",
+                    "updatedAt": "2023-04-11T01:26:17.862Z"
+                }
+            ],
+            "classTitle": "Vehicle",
+            "points": {
+                "exterior": [
+                    [
+                        1459,
+                        559
+                    ],
+                    [
+                        1478,
+                        571
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 9831941,
+            "classId": 4934,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "yholat",
+            "createdAt": "2023-04-11T01:26:13.066Z",
+            "updatedAt": "2023-04-11T01:26:13.066Z",
+            "tags": [
+                {
+                    "id": 284024,
+                    "tagId": 1926,
+                    "name": "not_in_roi",
+                    "value": null,
+                    "labelerLogin": "yholat",
+                    "createdAt": "2023-04-11T01:26:13.822Z",
+                    "updatedAt": "2023-04-11T01:26:13.822Z"
+                }
+            ],
+            "classTitle": "Vehicle",
+            "points": {
+                "exterior": [
+                    [
+                        1405,
+                        570
+                    ],
+                    [
+                        1422,
+                        578
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 9831936,
+            "classId": 4934,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "yholat",
+            "createdAt": "2023-04-11T01:25:52.884Z",
+            "updatedAt": "2023-04-11T01:26:07.506Z",
+            "tags": [
+                {
+                    "id": 284022,
+                    "tagId": 1926,
+                    "name": "not_in_roi",
+                    "value": null,
+                    "labelerLogin": "yholat",
+                    "createdAt": "2023-04-11T01:26:00.227Z",
+                    "updatedAt": "2023-04-11T01:26:00.227Z"
+                },
+                {
+                    "id": 284021,
+                    "tagId": 1933,
+                    "name": "Truncation",
+                    "value": "0-25",
+                    "labelerLogin": "yholat",
+                    "createdAt": "2023-04-11T01:25:59.105Z",
+                    "updatedAt": "2023-04-11T01:25:59.105Z"
+                },
+                {
+                    "id": 284020,
+                    "tagId": 1927,
+                    "name": "Occlusion",
+                    "value": "75-100",
+                    "labelerLogin": "yholat",
+                    "createdAt": "2023-04-11T01:25:57.732Z",
+                    "updatedAt": "2023-04-11T01:25:57.732Z"
+                }
+            ],
+            "classTitle": "Vehicle",
+            "points": {
+                "exterior": [
+                    [
+                        1487,
+                        564
+                    ],
+                    [
+                        1518,
+                        572
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 9831933,
+            "classId": 4934,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "yholat",
+            "createdAt": "2023-04-11T01:25:43.801Z",
+            "updatedAt": "2023-04-11T01:25:43.801Z",
+            "tags": [
+                {
+                    "id": 284013,
+                    "tagId": 1926,
+                    "name": "not_in_roi",
+                    "value": null,
+                    "labelerLogin": "yholat",
+                    "createdAt": "2023-04-11T01:25:46.399Z",
+                    "updatedAt": "2023-04-11T01:25:46.399Z"
+                }
+            ],
+            "classTitle": "Vehicle",
+            "points": {
+                "exterior": [
+                    [
+                        1872,
+                        529
+                    ],
+                    [
+                        1893,
+                        544
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 9831930,
+            "classId": 4934,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "yholat",
+            "createdAt": "2023-04-11T01:25:38.201Z",
+            "updatedAt": "2023-04-11T01:25:38.201Z",
+            "tags": [
+                {
+                    "id": 284009,
+                    "tagId": 1926,
+                    "name": "not_in_roi",
+                    "value": null,
+                    "labelerLogin": "yholat",
+                    "createdAt": "2023-04-11T01:25:38.438Z",
+                    "updatedAt": "2023-04-11T01:25:38.438Z"
+                }
+            ],
+            "classTitle": "Vehicle",
+            "points": {
+                "exterior": [
+                    [
+                        1905,
+                        520
+                    ],
+                    [
+                        1919,
+                        547
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 9831928,
+            "classId": 4934,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "yholat",
+            "createdAt": "2023-04-11T01:25:33.156Z",
+            "updatedAt": "2023-04-11T01:25:33.156Z",
+            "tags": [
+                {
+                    "id": 284006,
+                    "tagId": 1926,
+                    "name": "not_in_roi",
+                    "value": null,
+                    "labelerLogin": "yholat",
+                    "createdAt": "2023-04-11T01:25:34.956Z",
+                    "updatedAt": "2023-04-11T01:25:34.956Z"
+                }
+            ],
+            "classTitle": "Vehicle",
+            "points": {
+                "exterior": [
+                    [
+                        1909,
+                        536
+                    ],
+                    [
+                        1919,
+                        557
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 9831923,
+            "classId": 4934,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "yholat",
+            "createdAt": "2023-04-11T01:25:20.508Z",
+            "updatedAt": "2023-04-11T01:25:20.508Z",
+            "tags": [
+                {
+                    "id": 284007,
+                    "tagId": 1926,
+                    "name": "not_in_roi",
+                    "value": null,
+                    "labelerLogin": "yholat",
+                    "createdAt": "2023-04-11T01:25:35.699Z",
+                    "updatedAt": "2023-04-11T01:25:35.699Z"
+                }
+            ],
+            "classTitle": "Vehicle",
+            "points": {
+                "exterior": [
+                    [
+                        1867,
+                        545
+                    ],
+                    [
+                        1898,
+                        559
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 9831920,
+            "classId": 4932,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "yholat",
+            "createdAt": "2023-04-11T01:25:07.867Z",
+            "updatedAt": "2023-04-11T01:25:07.867Z",
+            "tags": [
+                {
+                    "id": 283994,
+                    "tagId": 1926,
+                    "name": "not_in_roi",
+                    "value": null,
+                    "labelerLogin": "yholat",
+                    "createdAt": "2023-04-11T01:25:12.387Z",
+                    "updatedAt": "2023-04-11T01:25:12.387Z"
+                },
+                {
+                    "id": 283993,
+                    "tagId": 1933,
+                    "name": "Truncation",
+                    "value": "0-25",
+                    "labelerLogin": "yholat",
+                    "createdAt": "2023-04-11T01:25:10.430Z",
+                    "updatedAt": "2023-04-11T01:25:10.430Z"
+                },
+                {
+                    "id": 283990,
+                    "tagId": 1927,
+                    "name": "Occlusion",
+                    "value": "0-25",
+                    "labelerLogin": "yholat",
+                    "createdAt": "2023-04-11T01:25:09.332Z",
+                    "updatedAt": "2023-04-11T01:25:09.332Z"
+                }
+            ],
+            "classTitle": "Truck",
+            "points": {
+                "exterior": [
+                    [
+                        1866,
+                        575
+                    ],
+                    [
+                        1919,
+                        632
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 9831909,
+            "classId": 4915,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "yholat",
+            "createdAt": "2023-04-11T01:24:30.557Z",
+            "updatedAt": "2023-04-11T01:24:30.557Z",
+            "tags": [
+                {
+                    "id": 283980,
+                    "tagId": 1927,
+                    "name": "Occlusion",
+                    "value": "25-50",
+                    "labelerLogin": "yholat",
+                    "createdAt": "2023-04-11T01:24:55.588Z",
+                    "updatedAt": "2023-04-11T01:24:55.588Z"
+                },
+                {
+                    "id": 283977,
+                    "tagId": 1933,
+                    "name": "Truncation",
+                    "value": "25-50",
+                    "labelerLogin": "yholat",
+                    "createdAt": "2023-04-11T01:24:50.285Z",
+                    "updatedAt": "2023-04-11T01:24:50.285Z"
+                },
+                {
+                    "id": 283971,
+                    "tagId": 1926,
+                    "name": "not_in_roi",
+                    "value": null,
+                    "labelerLogin": "yholat",
+                    "createdAt": "2023-04-11T01:24:41.736Z",
+                    "updatedAt": "2023-04-11T01:24:41.736Z"
+                }
+            ],
+            "classTitle": "Car",
+            "points": {
+                "exterior": [
+                    [
+                        1887,
+                        612
+                    ],
+                    [
+                        1919,
+                        632
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 9831907,
+            "classId": 4915,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "yholat",
+            "createdAt": "2023-04-11T01:24:20.539Z",
+            "updatedAt": "2023-04-11T01:24:20.539Z",
+            "tags": [
+                {
+                    "id": 283962,
+                    "tagId": 1933,
+                    "name": "Truncation",
+                    "value": "0-25",
+                    "labelerLogin": "yholat",
+                    "createdAt": "2023-04-11T01:24:26.829Z",
+                    "updatedAt": "2023-04-11T01:24:26.829Z"
+                },
+                {
+                    "id": 283960,
+                    "tagId": 1927,
+                    "name": "Occlusion",
+                    "value": "25-50",
+                    "labelerLogin": "yholat",
+                    "createdAt": "2023-04-11T01:24:25.390Z",
+                    "updatedAt": "2023-04-11T01:24:25.390Z"
+                }
+            ],
+            "classTitle": "Car",
+            "points": {
+                "exterior": [
+                    [
+                        1876,
+                        630
+                    ],
+                    [
+                        1919,
+                        671
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 9831904,
+            "classId": 4933,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "yholat",
+            "createdAt": "2023-04-11T01:24:11.111Z",
+            "updatedAt": "2023-04-11T01:24:11.111Z",
+            "tags": [
+                {
+                    "id": 283959,
+                    "tagId": 1933,
+                    "name": "Truncation",
+                    "value": "25-50",
+                    "labelerLogin": "yholat",
+                    "createdAt": "2023-04-11T01:24:14.901Z",
+                    "updatedAt": "2023-04-11T01:24:14.901Z"
+                },
+                {
+                    "id": 283957,
+                    "tagId": 1927,
+                    "name": "Occlusion",
+                    "value": "0-25",
+                    "labelerLogin": "yholat",
+                    "createdAt": "2023-04-11T01:24:12.943Z",
+                    "updatedAt": "2023-04-11T01:24:12.943Z"
+                }
+            ],
+            "classTitle": "Van",
+            "points": {
+                "exterior": [
+                    [
+                        1877,
+                        646
+                    ],
+                    [
+                        1919,
+                        720
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 9831901,
+            "classId": 4915,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "yholat",
+            "createdAt": "2023-04-11T01:24:00.148Z",
+            "updatedAt": "2023-04-11T01:24:00.148Z",
+            "tags": [
+                {
+                    "id": 283956,
+                    "tagId": 1933,
+                    "name": "Truncation",
+                    "value": "0-25",
+                    "labelerLogin": "yholat",
+                    "createdAt": "2023-04-11T01:24:02.926Z",
+                    "updatedAt": "2023-04-11T01:24:02.926Z"
+                },
+                {
+                    "id": 283954,
+                    "tagId": 1927,
+                    "name": "Occlusion",
+                    "value": "0-25",
+                    "labelerLogin": "yholat",
+                    "createdAt": "2023-04-11T01:24:01.585Z",
+                    "updatedAt": "2023-04-11T01:24:01.585Z"
+                }
+            ],
+            "classTitle": "Car",
+            "points": {
+                "exterior": [
+                    [
+                        1734,
+                        533
+                    ],
+                    [
+                        1749,
+                        544
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 9831899,
+            "classId": 4934,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "yholat",
+            "createdAt": "2023-04-11T01:23:50.890Z",
+            "updatedAt": "2023-04-11T01:23:50.890Z",
+            "tags": [],
+            "classTitle": "Vehicle",
+            "points": {
+                "exterior": [
+                    [
+                        1683,
+                        519
+                    ],
+                    [
+                        1693,
+                        535
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 9831896,
+            "classId": 4915,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "yholat",
+            "createdAt": "2023-04-11T01:23:40.315Z",
+            "updatedAt": "2023-04-11T01:23:40.315Z",
+            "tags": [
+                {
+                    "id": 283943,
+                    "tagId": 1933,
+                    "name": "Truncation",
+                    "value": "0-25",
+                    "labelerLogin": "yholat",
+                    "createdAt": "2023-04-11T01:23:44.313Z",
+                    "updatedAt": "2023-04-11T01:23:44.313Z"
+                },
+                {
+                    "id": 283942,
+                    "tagId": 1927,
+                    "name": "Occlusion",
+                    "value": "0-25",
+                    "labelerLogin": "yholat",
+                    "createdAt": "2023-04-11T01:23:43.370Z",
+                    "updatedAt": "2023-04-11T01:23:43.370Z"
+                }
+            ],
+            "classTitle": "Car",
+            "points": {
+                "exterior": [
+                    [
+                        1513,
+                        546
+                    ],
+                    [
+                        1528,
+                        556
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 9831894,
+            "classId": 4915,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "yholat",
+            "createdAt": "2023-04-11T01:23:33.364Z",
+            "updatedAt": "2023-04-11T01:23:33.364Z",
+            "tags": [
+                {
+                    "id": 283940,
+                    "tagId": 1926,
+                    "name": "not_in_roi",
+                    "value": null,
+                    "labelerLogin": "yholat",
+                    "createdAt": "2023-04-11T01:23:38.025Z",
+                    "updatedAt": "2023-04-11T01:23:38.025Z"
+                },
+                {
+                    "id": 283939,
+                    "tagId": 1933,
+                    "name": "Truncation",
+                    "value": "0-25",
+                    "labelerLogin": "yholat",
+                    "createdAt": "2023-04-11T01:23:37.812Z",
+                    "updatedAt": "2023-04-11T01:23:37.812Z"
+                },
+                {
+                    "id": 283938,
+                    "tagId": 1927,
+                    "name": "Occlusion",
+                    "value": "0-25",
+                    "labelerLogin": "yholat",
+                    "createdAt": "2023-04-11T01:23:35.992Z",
+                    "updatedAt": "2023-04-11T01:23:35.992Z"
+                }
+            ],
+            "classTitle": "Car",
+            "points": {
+                "exterior": [
+                    [
+                        1549,
+                        542
+                    ],
+                    [
+                        1561,
+                        552
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 9831834,
+            "classId": 4932,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "yholat",
+            "createdAt": "2023-04-11T01:13:29.378Z",
+            "updatedAt": "2023-04-11T01:13:29.378Z",
+            "tags": [
+                {
+                    "id": 283819,
+                    "tagId": 1926,
+                    "name": "not_in_roi",
+                    "value": null,
+                    "labelerLogin": "yholat",
+                    "createdAt": "2023-04-11T01:13:34.508Z",
+                    "updatedAt": "2023-04-11T01:13:34.508Z"
+                },
+                {
+                    "id": 283818,
+                    "tagId": 1933,
+                    "name": "Truncation",
+                    "value": "0-25",
+                    "labelerLogin": "yholat",
+                    "createdAt": "2023-04-11T01:13:34.340Z",
+                    "updatedAt": "2023-04-11T01:13:34.340Z"
+                },
+                {
+                    "id": 283816,
+                    "tagId": 1927,
+                    "name": "Occlusion",
+                    "value": "75-100",
+                    "labelerLogin": "yholat",
+                    "createdAt": "2023-04-11T01:13:33.013Z",
+                    "updatedAt": "2023-04-11T01:13:33.013Z"
+                }
+            ],
+            "classTitle": "Truck",
+            "points": {
+                "exterior": [
+                    [
+                        800,
+                        604
+                    ],
+                    [
+                        825,
+                        617
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 9723685,
+            "classId": 4930,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "abilgin4",
+            "createdAt": "2020-06-29T14:49:52.811Z",
+            "updatedAt": "2020-08-10T17:15:59.219Z",
+            "tags": [],
+            "classTitle": "Traffic Sign",
+            "points": {
+                "exterior": [
+                    [
+                        996,
+                        565
+                    ],
+                    [
+                        1021,
+                        590
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 9831833,
+            "classId": 4932,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "yholat",
+            "createdAt": "2023-04-11T01:13:20.199Z",
+            "updatedAt": "2023-04-11T01:13:20.199Z",
+            "tags": [
+                {
+                    "id": 283814,
+                    "tagId": 1926,
+                    "name": "not_in_roi",
+                    "value": null,
+                    "labelerLogin": "yholat",
+                    "createdAt": "2023-04-11T01:13:26.071Z",
+                    "updatedAt": "2023-04-11T01:13:26.071Z"
+                },
+                {
+                    "id": 283813,
+                    "tagId": 1933,
+                    "name": "Truncation",
+                    "value": "0-25",
+                    "labelerLogin": "yholat",
+                    "createdAt": "2023-04-11T01:13:25.605Z",
+                    "updatedAt": "2023-04-11T01:13:25.605Z"
+                },
+                {
+                    "id": 283812,
+                    "tagId": 1927,
+                    "name": "Occlusion",
+                    "value": "75-100",
+                    "labelerLogin": "yholat",
+                    "createdAt": "2023-04-11T01:13:24.275Z",
+                    "updatedAt": "2023-04-11T01:13:24.275Z"
+                }
+            ],
+            "classTitle": "Truck",
+            "points": {
+                "exterior": [
+                    [
+                        764,
+                        607
+                    ],
+                    [
+                        792,
+                        620
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 9723684,
+            "classId": 4925,
+            "description": "",
+            "geometryType": "line",
+            "labelerLogin": "abilgin4",
+            "createdAt": "2020-06-29T14:50:06.026Z",
+            "updatedAt": "2020-08-10T17:15:59.219Z",
+            "tags": [],
+            "classTitle": "Solid Line",
+            "points": {
+                "exterior": [
+                    [
+                        0,
+                        1169
+                    ],
+                    [
+                        288,
+                        1011
+                    ],
+                    [
+                        504,
+                        894
+                    ],
+                    [
+                        667,
+                        812
+                    ],
+                    [
+                        843,
+                        731
+                    ],
+                    [
+                        954,
+                        689
+                    ],
+                    [
+                        1041,
+                        663
+                    ],
+                    [
+                        1105,
+                        647
+                    ],
+                    [
+                        1149,
+                        638
+                    ],
+                    [
+                        1200,
+                        629
+                    ],
+                    [
+                        1245,
+                        622
+                    ],
+                    [
+                        1291,
+                        616
+                    ],
+                    [
+                        1336,
+                        611
+                    ],
+                    [
+                        1380,
+                        607
+                    ],
+                    [
+                        1409,
+                        604
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 9831831,
+            "classId": 4932,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "yholat",
+            "createdAt": "2023-04-11T01:13:11.152Z",
+            "updatedAt": "2023-04-11T01:13:11.152Z",
+            "tags": [
+                {
+                    "id": 283809,
+                    "tagId": 1926,
+                    "name": "not_in_roi",
+                    "value": null,
+                    "labelerLogin": "yholat",
+                    "createdAt": "2023-04-11T01:13:13.728Z",
+                    "updatedAt": "2023-04-11T01:13:13.728Z"
+                },
+                {
+                    "id": 283808,
+                    "tagId": 1933,
+                    "name": "Truncation",
+                    "value": "0-25",
+                    "labelerLogin": "yholat",
+                    "createdAt": "2023-04-11T01:13:13.456Z",
+                    "updatedAt": "2023-04-11T01:13:13.456Z"
+                },
+                {
+                    "id": 283807,
+                    "tagId": 1927,
+                    "name": "Occlusion",
+                    "value": "0-25",
+                    "labelerLogin": "yholat",
+                    "createdAt": "2023-04-11T01:13:12.533Z",
+                    "updatedAt": "2023-04-11T01:13:12.533Z"
+                }
+            ],
+            "classTitle": "Truck",
+            "points": {
+                "exterior": [
+                    [
+                        857,
+                        599
+                    ],
+                    [
+                        882,
+                        609
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 9723683,
+            "classId": 4920,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "bsengul2",
+            "createdAt": "2020-07-29T20:48:15.658Z",
+            "updatedAt": "2020-08-10T17:15:59.219Z",
+            "tags": [],
+            "classTitle": "Freespace",
+            "points": {
+                "exterior": [
+                    [
+                        0,
+                        1208
+                    ],
+                    [
+                        0,
+                        1057
+                    ],
+                    [
+                        454,
+                        851
+                    ],
+                    [
+                        733,
+                        741
+                    ],
+                    [
+                        874,
+                        695
+                    ],
+                    [
+                        992,
+                        661
+                    ],
+                    [
+                        1133,
+                        632
+                    ],
+                    [
+                        1267,
+                        614
+                    ],
+                    [
+                        1427,
+                        599
+                    ],
+                    [
+                        1374,
+                        618
+                    ],
+                    [
+                        1363,
+                        626
+                    ],
+                    [
+                        1358,
+                        642
+                    ],
+                    [
+                        1350,
+                        656
+                    ],
+                    [
+                        1348,
+                        677
+                    ],
+                    [
+                        1340,
+                        680
+                    ],
+                    [
+                        1337,
+                        689
+                    ],
+                    [
+                        1338,
+                        695
+                    ],
+                    [
+                        1352,
+                        698
+                    ],
+                    [
+                        1359,
+                        725
+                    ],
+                    [
+                        1400,
+                        775
+                    ],
+                    [
+                        1581,
+                        929
+                    ],
+                    [
+                        1908,
+                        1160
+                    ],
+                    [
+                        1920,
+                        1202
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 9831829,
+            "classId": 4932,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "yholat",
+            "createdAt": "2023-04-11T01:13:04.447Z",
+            "updatedAt": "2023-04-11T01:13:04.447Z",
+            "tags": [
+                {
+                    "id": 283810,
+                    "tagId": 1933,
+                    "name": "Truncation",
+                    "value": "0-25",
+                    "labelerLogin": "yholat",
+                    "createdAt": "2023-04-11T01:13:16.466Z",
+                    "updatedAt": "2023-04-11T01:13:16.466Z"
+                },
+                {
+                    "id": 283804,
+                    "tagId": 1926,
+                    "name": "not_in_roi",
+                    "value": null,
+                    "labelerLogin": "yholat",
+                    "createdAt": "2023-04-11T01:13:08.186Z",
+                    "updatedAt": "2023-04-11T01:13:08.186Z"
+                },
+                {
+                    "id": 283803,
+                    "tagId": 1927,
+                    "name": "Occlusion",
+                    "value": "75-100",
+                    "labelerLogin": "yholat",
+                    "createdAt": "2023-04-11T01:13:07.376Z",
+                    "updatedAt": "2023-04-11T01:13:07.376Z"
+                }
+            ],
+            "classTitle": "Truck",
+            "points": {
+                "exterior": [
+                    [
+                        888,
+                        595
+                    ],
+                    [
+                        918,
+                        606
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 9723682,
+            "classId": 4918,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "bsengul2",
+            "createdAt": "2020-08-10T17:15:59.110Z",
+            "updatedAt": "2020-08-10T17:16:05.676Z",
+            "tags": [],
+            "classTitle": "Debris",
+            "points": {
+                "exterior": [
+                    [
+                        1351,
+                        697
+                    ],
+                    [
+                        1339,
+                        694
+                    ],
+                    [
+                        1338,
+                        688
+                    ],
+                    [
+                        1341,
+                        681
+                    ],
+                    [
+                        1350,
+                        677
+                    ],
+                    [
+                        1353,
+                        683
+                    ],
+                    [
+                        1355,
+                        689
+                    ],
+                    [
+                        1354,
+                        694
+                    ],
+                    [
+                        1354,
+                        697
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}
