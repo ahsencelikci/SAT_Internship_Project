@@ -55,4 +55,81 @@ ii. Unsupervised Learning: Works with an unlabeled dataset, meaning there are no
 
 
 
+## Data Preprocessing
+
+### Extracting Masks
+
+- ***What is color space ?***
+
+Color space is a specific organization or model for representing colors. It allows for the consistent interpretation and manipulation of color information by algorithms and neural networks. Understanding and using different color spaces can significantly impact the performance and accuracy of AI models dealing with visual data.
+
+- ***What RGB stands for ?***
+
+RGB stands for Red, Green, and Blue, a color model where colors are represented as combinations of these three primary colors.
+
+- ***In Python, can we transform from one color space to another?***
+
+Yes, in Python, we can transform from one color space to another using various libraries and functions. One popular library for working with colors and color spaces is OpenCV. OpenCV provides functions to convert images between different color spaces, such as RGB to grayscale, RGB to HSV, RGB to LAB, etc.
+
+- ***What is the popular library for image processing?***
+
+i.  OpenCV: Best for a comprehensive range of image processing and computer vision tasks.
+
+ii.  Pillow: Ideal for basic image manipulation.
+
+iii.  scikit-image: Great for scientific and advanced image processing.
+
+iv.  TensorFlow/Keras: Useful for integrating image processing with deep learning models.
+
+v. PyTorch: Provides robust tools for image preprocessing in deep learning contexts.
+
+### Converting into Tensor
+
+- ***Explain Computational Graph.***
+
+A computational graph is a graphical representation of a mathematical expression or a computational process. It visualizes the flow of data through operations, making it easier to understand and optimize the process, especially in the context of deep learning and machine learning.
+
+- ***What is Tensor?***
+
+A tensor is a mathematical object that generalizes scalars, vectors, and matrices to higher dimensions. In the context of computing and machine learning, particularly with frameworks like TensorFlow and PyTorch, tensors are multi-dimensional arrays used to store and manipulate data.
+
+- ***What is one hot encoding?***
+
+One-hot encoding is a technique to convert categorical data into a binary format where each category is represented by a unique binary vector. This method is widely used in machine learning to handle categorical variables and ensure that models can effectively interpret and process categorical information.
+
+- ***What is CUDA programming?***
+
+CUDA programming is a parallel computing platform and API model developed by NVIDIA that allows developers to use NVIDIA GPUs for general-purpose processing. It enables faster computation by offloading compute-intensive tasks from the CPU to the GPU.
+
+
+## Design Segmentation Model
+
+- ***What is the difference between CNN and Fully CNN (FCNN) ?***
+
+CNNs are designed for fixed-size outputs, FCNNs are designed to handle inputs and outputs of variable sizes, making them suitable for tasks requiring spatial outputs.
+
+- ***What are the different layers on CNN ?***
+
+CNN layers:
+
+i.  Convolutional layer: Applies filters to extract features.  
+
+ii. Pooling layer: Downsamples feature maps to reduce computational cost.   
+
+iii.Fully connected layer: Classifies input based on learned features.
+
+iv. Activation layer: Introduces non-linearity (e.g., ReLU).   
+
+v. Normalization layer: Improves training stability (e.g., Batch normalization).
+
+- ***What is activation function ? Why is softmax usually used in the last layer?***
+
+_Activation Function:_ Introduces non-linearity and enables learning complex patterns.
+
+_Softmax in the Last Layer:_ Used to convert logits into a probability distribution for multi-class classification problems, making it easier to interpret the model’s predictions.
+
+
+
+
+
 
