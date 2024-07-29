@@ -129,6 +129,86 @@ _Activation Function:_ Introduces non-linearity and enables learning complex pat
 _Softmax in the Last Layer:_ Used to convert logits into a probability distribution for multi-class classification problems, making it easier to interpret the model’s predictions.
 
 
+## Train
+
+
+- ***What is parameter in NN ?***
+
+In a neural network (NN), a parameter refers to the values that the network learns and optimizes during training. These parameters are essential for defining the behavior and performance of the network.
+
+- ***What is hyper-parameter in NN ?***
+
+Hyperparameters are settings that determine the network structure and training process, but are not learned from the data. They are set before training begins. Examples include learning rate, batch size, number of layers, and number of neurons per layer.  
+
+- ***We mention the dataset and we separate it into 2: training & test. In addition to them, there is a validation dataset. What is it for?***
+
+Validation Dataset is A separate subset of data used during the training process to tune hyperparameters, select models, monitor performance, and prevent overfitting.
+
+- ***What is epoch?***
+
+An epoch is one complete pass through the entire training dataset during the training process.
+
+- ***What is batch?***
+
+A batch is a group of training examples processed together in one iteration during model training. It improves computation efficiency and can be adjusted using the batch size parameter.
+
+- ***What is iteration? Explain with an example: "If we have x images as data and batch size is y. Then an epoch should run z iterations."***
+
+An iteration is a single pass through a batch of data.
+
+In the context of example:
+
+**x** is the total number of images.
+
+**y** is the batch size, or the number of images processed in one go.
+
+**z** is the number of iterations required to complete one epoch.
+
+**Formula:**
+
+z = x / y
+
+- ***What Is the Cost Function?***
+
+The cost function (also known as the loss function or objective function) in machine learning and neural networks is a measure of how well a model’s predictions match the actual target values.
+
+- ***The process of minimizing (or maximizing) any mathematical expression is called optimization. What is/are the purpose(s) of an optimizer in NN?***
+
+1. **Minimize the Cost Function:** Reduce the difference between predicted and actual values.
+
+2. **Improve Model Performance:** Find optimal parameters to enhance accuracy.
+
+3. **Facilitate Convergence:** Ensure effective convergence to the cost function’s minimum.
+
+4. **Handle Large Datasets and Complex Models:** Optimize large-scale models efficiently.
+
+5. **Prevent Overfitting:** Help the model generalize well to unseen data.
+
+
+- ***What is Batch Gradient Descent & Stochastic Gradient Descent? Compare them.***
+
+**Batch Gradient Descent (BGD):**
+
+- Uses the entire dataset to compute the gradient of the cost function in each iteration. 
+- Converges to the global minimum but is computationally expensive, especially for large datasets. 
+
+**Stochastic Gradient Descent (SGD):**
+
+- Uses only one training example to compute the gradient in each iteration.
+- Much faster than BGD but can be noisy and may not converge to the global minimum.
+
+- ***What is Backpropogation ? What is used for ?***
+
+Backpropagation (short for "backward propagation of errors") is a supervised learning algorithm used to train neural networks. It involves two main steps: forward propagation and backward propagation.
+
+
+
+
+
+
+
+
+
 
 
 
